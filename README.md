@@ -1,7 +1,7 @@
 # Welcome to AlgoVis!
 ##Just another sorting algorithm vizualizer
 
-Click here to see the following algorithms in actoin:
+Click [here](https://jleckron.github.io/AlgoVis/) to see the following algorithms in actoin:
  - Selection Sort
  - Insertion Sort
  - Bubble Sort
