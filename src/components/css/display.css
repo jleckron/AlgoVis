@@ -1,0 +1,13 @@
+#body{
+    background-color: rgb(255, 254, 249);
+    height: 100vh;
+}
+
+.rectangle {
+    display: inline-block;
+}
+
+.info {
+    padding-top: 15px;
+    justify-content: center;
+}

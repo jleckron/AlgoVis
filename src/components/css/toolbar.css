@@ -1,0 +1,33 @@
+#toolbar {
+    width: 100vw;
+    flex-direction: row;
+    justify-content: center;
+    background-color: darkslategrey;
+    display: inline-block;
+}
+
+#dropdown {
+    color: white;
+    display: inline-block;
+    margin: 10px 20px 15px 20px;
+}
+
+#generate{
+    display: inline;
+    margin: 10px 20px 15px 20px
+}
+
+#seperate{
+    font-size: large;
+    display: inline;
+}
+
+#generate:hover {
+    color: grey !important;
+}
+
+#slider{
+    font-size: small;
+    color: white;
+    margin-bottom: 5px;
+}
