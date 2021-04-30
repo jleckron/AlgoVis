@@ -1,7 +1,7 @@
 # Welcome to AlgoVis!
 ##Just another sorting algorithm vizualizer
 
-Click [here](https://jleckron.github.io/AlgoVis/) to see the following algorithms in actoin:
+Click [here](https://jleckron.github.io/AlgoVis/) to see the following algorithms in action:
  - Selection Sort
  - Insertion Sort
  - Bubble Sort
@@ -9,6 +9,8 @@ Click [here](https://jleckron.github.io/AlgoVis/) to see the following algorithm
  - Quick Sort
  - Merge Sort
  - Heap Sort
+
+I recommend using Chrome!
 
 ### (Seizure Warning - Flasing Colors)
 ### Enjoy!
