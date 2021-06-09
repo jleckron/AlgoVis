@@ -14,3 +14,7 @@ I recommend using Chrome!
 
 ### (Seizure Warning - Flasing Colors)
 ### Enjoy!
+
+Possible future additions:
+- Timsort
+- Radix Sort
